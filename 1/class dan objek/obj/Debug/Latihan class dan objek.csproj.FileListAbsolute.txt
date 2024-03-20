@@ -1,0 +1,7 @@
+D:\coding\1\class dan objek\bin\Debug\class dan objek.exe.config
+D:\coding\1\class dan objek\bin\Debug\class dan objek.exe
+D:\coding\1\class dan objek\bin\Debug\class dan objek.pdb
+D:\coding\1\class dan objek\obj\Debug\Latihan class dan objek.csproj.AssemblyReference.cache
+D:\coding\1\class dan objek\obj\Debug\Latihan class dan objek.csproj.CoreCompileInputs.cache
+D:\coding\1\class dan objek\obj\Debug\class dan objek.exe
+D:\coding\1\class dan objek\obj\Debug\class dan objek.pdb
